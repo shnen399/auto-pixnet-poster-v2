@@ -1,1 +1,6 @@
-Sample content for requirements.txt
+fastapi
+uvicorn
+requests
+apscheduler
+beautifulsoup4
+lxml
